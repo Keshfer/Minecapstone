@@ -10,6 +10,8 @@ Our system provides researchers a tool to test various embodied LLM implementati
 
 **Check out the other documentation files ([`./python/README.md`](./python/README.md) and [`./godot/README.md`](./godot/README.md))** for more information on how to modify or add new scenarios!
 
+![Test Case](./assets/image22.gif) ![Results](./assets/image23.png)
+
 # Overview
 
 ## Packaged Solution
